@@ -14,4 +14,5 @@ const mejorLenguaje= lenguajesFavoritos[0]
 
 const peorLenguaje= lenguajesFavoritos[2]
 
-console.log(mejorLenguaje);
+console.log(direccion.Barrio);
+console.log(lenguajesFavoritos[1]);
