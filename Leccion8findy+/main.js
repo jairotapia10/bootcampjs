@@ -50,9 +50,9 @@ console.log(funmaphola)
 
 
 const mayorEdad = ((acumulador, personas) => {
-  if (acumulador < personas.Edad) {
+  if (acumulador > personas.Edad) {
     return  acumulador
-   } else {
+   } else {                                         
       return personas.Edad
     
    }})
